@@ -1,0 +1,15 @@
+.env
+env
+data
+__pycache__
+coordinates.json
+countries.py
+create_properties.py
+api_wrappers.py
+get_short_countries_urls.py
+get_urls.py
+api_req_v1.py
+api_req_v2.py
+short_countries_urls.py
+update_cards.py
+urls.txt
